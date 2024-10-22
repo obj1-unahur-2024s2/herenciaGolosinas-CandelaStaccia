@@ -1,5 +1,6 @@
 import golosinas.*
 
+//falta baniar(unaGolosina) en mariano
 object mariano {
 	const golosinas = []
 	 
